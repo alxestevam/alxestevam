@@ -2,7 +2,7 @@
 
 
 I'm currently learning: Design Patterns, Clean Architecture and TDD.
-I'm a Software Developer since 2019 with a lot of experience on backend development.
+I'm a Software Developer since 2019 with a lot of experience in backend development.
 
 📫 How to reach me: You can send me an email at alxestevam@gmail.com
 
