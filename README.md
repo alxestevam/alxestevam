@@ -1,11 +1,10 @@
 ### Hi, I'm Alexandre Estevam 👋
 
+💻 Software Engineer with 5+ years of experience, specializing in backend and mobile development, DevOps practices, and modern architectures like microservices and Clean Architecture.
 
-📚 I'm currently learning: Design Patterns, Clean Architecture and TDD.
+🚀 Passionate about delivering high-quality, scalable products and mentoring developers to foster a culture of growth and innovation.
 
-💻 I'm a Software Developer since 2019 with a lot of experience in backend development.
-
-📫 How to reach me: You can send me an email at alxestevam@gmail.com
+📫 How to reach me: Feel free to send an email to alxestevam@gmail.com
 
 <div align="center">
   <a href="https://github.com/alxestevam">
