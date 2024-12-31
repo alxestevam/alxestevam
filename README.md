@@ -1,6 +1,6 @@
 ### Hi, I'm Alexandre Estevam 👋
 
-💻 Software Engineer with 5+ years of experience, specializing in backend and mobile development and DevOps practices.
+💻 Software Engineer with 5+ years of experience, specializing in backend development and infrastructure.
 
 🚀 Passionate about delivering high-quality, scalable products and mentoring developers to foster a culture of growth and innovation.
 
